@@ -1,0 +1,502 @@
+[
+    {
+        "position":1,
+        "artist":"Joy Division",
+        "track":"Love Will Tear Us Apart"
+    },
+    {
+        "position":2,
+        "artist":"Hunters & Collectors",
+        "track":"Throw Your Arms Around Me"
+    },
+    {
+        "position":3,
+        "artist":"The The",
+        "track":"Uncertain Smile"
+    },
+    {
+        "position":4,
+        "artist":"The Jam",
+        "track":"That's Entertainment"
+    },
+    {
+        "position":5,
+        "artist":"New Order",
+        "track":"Blue Monday"
+    },
+    {
+        "position":6,
+        "artist":"Dead Kennedys",
+        "track":"Holiday In Cambodia"
+    },
+    {
+        "position":7,
+        "artist":"The Smiths",
+        "track":"How Soon Is Now"
+    },
+    {
+        "position":8,
+        "artist":"Hunters & Collectors",
+        "track":"Talking To A Stranger"
+    },
+    {
+        "position":9,
+        "artist":"Sugarcubes",
+        "track":"Birthday"
+    },
+    {
+        "position":10,
+        "artist":"The Cure",
+        "track":"A Forest"
+    },
+    {
+        "position":11,
+        "artist":"The Go-Betweens",
+        "track":"Cattle & Cane"
+    },
+    {
+        "position":12,
+        "artist":"Boys Next Door",
+        "track":"Shivers"
+    },
+    {
+        "position":13,
+        "artist":"The Smiths",
+        "track":"This Charming Man"
+    },
+    {
+        "position":14,
+        "artist":"The B-52s",
+        "track":"Rock Lobster"
+    },
+    {
+        "position":15,
+        "artist":"This Mortal Coil",
+        "track":"Song To The Siren"
+    },
+    {
+        "position":16,
+        "artist":"Elvis Costello",
+        "track":"Alison"
+    },
+    {
+        "position":17,
+        "artist":"Sex Pistols",
+        "track":"Anarchy In The UK"
+    },
+    {
+        "position":18,
+        "artist":"The Clash",
+        "track":"London Calling"
+    },
+    {
+        "position":19,
+        "artist":"The Cure",
+        "track":"Primary"
+    },
+    {
+        "position":20,
+        "artist":"Billy Bragg",
+        "track":"Waiting For The Great Leap Forward"
+    },
+    {
+        "position":21,
+        "artist":"Aretha Franklin",
+        "track":"Respect"
+    },
+    {
+        "position":22,
+        "artist":"R.E.M.",
+        "track":"It's The End Of The World As We Know It (And I Feel Fine)"
+    },
+    {
+        "position":23,
+        "artist":"Radio Birdman",
+        "track":"Aloha Steve And Danno"
+    },
+    {
+        "position":24,
+        "artist":"Art Of Noise & Tom Jones",
+        "track":"Kiss"
+    },
+    {
+        "position":25,
+        "artist":"Machinations",
+        "track":"Average Inadequacy"
+    },
+    {
+        "position":26,
+        "artist":"The Only Ones",
+        "track":"Another Girl, Another Planet"
+    },
+    {
+        "position":27,
+        "artist":"The Smiths",
+        "track":"Bigmouth Strikes Again"
+    },
+    {
+        "position":28,
+        "artist":"The Saints",
+        "track":"Know Your Product"
+    },
+    {
+        "position":29,
+        "artist":"The Cure",
+        "track":"Boys Don't Cry"
+    },
+    {
+        "position":30,
+        "artist":"Led Zeppelin",
+        "track":"Stairway To Heaven"
+    },
+    {
+        "position":31,
+        "artist":"John Lennon",
+        "track":"Imagine"
+    },
+    {
+        "position":32,
+        "artist":"Talking Heads",
+        "track":"Psycho Killer"
+    },
+    {
+        "position":33,
+        "artist":"Pink Floyd",
+        "track":"Wish You Were Here"
+    },
+    {
+        "position":34,
+        "artist":"Prince",
+        "track":"Kiss"
+    },
+    {
+        "position":35,
+        "artist":"The Cult",
+        "track":"She Sells Sanctuary"
+    },
+    {
+        "position":36,
+        "artist":"Simple Minds",
+        "track":"Love Song"
+    },
+    {
+        "position":37,
+        "artist":"Prince",
+        "track":"Sign Of The Times"
+    },
+    {
+        "position":38,
+        "artist":"Billy Bragg",
+        "track":"Greetings To The New Brunette"
+    },
+    {
+        "position":39,
+        "artist":"David Bowie",
+        "track":"Heroes"
+    },
+    {
+        "position":40,
+        "artist":"The Doors",
+        "track":"LA Woman"
+    },
+    {
+        "position":41,
+        "artist":"Sinead O'Connor",
+        "track":"Troy"
+    },
+    {
+        "position":42,
+        "artist":"The Church",
+        "track":"Unguarded Moment"
+    },
+    {
+        "position":43,
+        "artist":"Kate Bush",
+        "track":"Wuthering Heights"
+    },
+    {
+        "position":44,
+        "artist":"The Damned",
+        "track":"Smash It Up"
+    },
+    {
+        "position":45,
+        "artist":"R.E.M.",
+        "track":"The One I Love"
+    },
+    {
+        "position":46,
+        "artist":"Violent Femmes",
+        "track":"Blister In The Sun"
+    },
+    {
+        "position":47,
+        "artist":"Iggy Pop",
+        "track":"Lust For Life"
+    },
+    {
+        "position":48,
+        "artist":"Enya",
+        "track":"Orinoco Flow"
+    },
+    {
+        "position":49,
+        "artist":"Jimi Hendrix",
+        "track":"All Along The Watchtower"
+    },
+    {
+        "position":50,
+        "artist":"The Doors",
+        "track":"The End"
+    },
+    {
+        "position":51,
+        "artist":"The Saints",
+        "track":"(I'm) Stranded"
+    },
+    {
+        "position":52,
+        "artist":"Womack & Womack",
+        "track":"Teardrops"
+    },
+    {
+        "position":53,
+        "artist":"Sex Pistols",
+        "track":"God Save The Queen"
+    },
+    {
+        "position":54,
+        "artist":"Echo & The Bunnymen",
+        "track":"The Cutter"
+    },
+    {
+        "position":55,
+        "artist":"Television",
+        "track":"Marquee Moon"
+    },
+    {
+        "position":56,
+        "artist":"Sunnyboys",
+        "track":"Alone With You"
+    },
+    {
+        "position":57,
+        "artist":"Midnight Oil",
+        "track":"Wedding Cake Island"
+    },
+    {
+        "position":58,
+        "artist":"Elvis Costello & The Attractions",
+        "track":"I Want You"
+    },
+    {
+        "position":59,
+        "artist":"Art Of Noise",
+        "track":"Moments In Love"
+    },
+    {
+        "position":60,
+        "artist":"Sakamoto & Sylvian",
+        "track":"Forbidden Colours"
+    },
+    {
+        "position":61,
+        "artist":"Neneh Cherry",
+        "track":"Buffalo Stance"
+    },
+    {
+        "position":62,
+        "artist":"Marvin Gaye",
+        "track":"Sexual Healing"
+    },
+    {
+        "position":63,
+        "artist":"Rolling Stones",
+        "track":"Sympathy For The Devil"
+    },
+    {
+        "position":64,
+        "artist":"The Smiths",
+        "track":"There Is A Light That Never Goes Out"
+    },
+    {
+        "position":65,
+        "artist":"Sex Pistols",
+        "track":"Pretty Vacant"
+    },
+    {
+        "position":66,
+        "artist":"The Cure",
+        "track":"Close To Me"
+    },
+    {
+        "position":67,
+        "artist":"New Order",
+        "track":"Bizarre Love Triangle"
+    },
+    {
+        "position":68,
+        "artist":"The Triffids",
+        "track":"Wide Open Road"
+    },
+    {
+        "position":69,
+        "artist":"The Beatles",
+        "track":"A Day In The Life"
+    },
+    {
+        "position":70,
+        "artist":"Nick Cave & The Bad Seeds",
+        "track":"Deanna"
+    },
+    {
+        "position":71,
+        "artist":"Elvis Costello & The Attractions",
+        "track":"Pump It Up"
+    },
+    {
+        "position":72,
+        "artist":"The Go-Betweens",
+        "track":"Bachelor Kisses"
+    },
+    {
+        "position":73,
+        "artist":"Elvis Costello & The Attractions",
+        "track":"Watching The Detectives"
+    },
+    {
+        "position":74,
+        "artist":"Propaganda",
+        "track":"Duel"
+    },
+    {
+        "position":75,
+        "artist":"The Jam",
+        "track":"Going Underground"
+    },
+    {
+        "position":76,
+        "artist":"Derek & The Dominos",
+        "track":"Layla"
+    },
+    {
+        "position":77,
+        "artist":"Lou Reed",
+        "track":"Walk On The Wild Side"
+    },
+    {
+        "position":78,
+        "artist":"The Saints",
+        "track":"Ghost Ships"
+    },
+    {
+        "position":79,
+        "artist":"Warumpi Band",
+        "track":"My Island Home"
+    },
+    {
+        "position":80,
+        "artist":"Cocteau Twins",
+        "track":"Blue Bell Knoll"
+    },
+    {
+        "position":81,
+        "artist":"XTC",
+        "track":"Making Plans For Nigel"
+    },
+    {
+        "position":82,
+        "artist":"The Stranglers",
+        "track":"Golden Brown"
+    },
+    {
+        "position":83,
+        "artist":"Hunters & Collectors",
+        "track":"The Slab"
+    },
+    {
+        "position":84,
+        "artist":"Talking Heads",
+        "track":"Burning Down The House"
+    },
+    {
+        "position":85,
+        "artist":"Grandmaster Flash",
+        "track":"The Message"
+    },
+    {
+        "position":86,
+        "artist":"The Doors",
+        "track":"Riders On The Storm"
+    },
+    {
+        "position":87,
+        "artist":"The Jam",
+        "track":"Down In The Tube Station At Midnight"
+    },
+    {
+        "position":88,
+        "artist":"Midnight Oil",
+        "track":"Power & The Passion"
+    },
+    {
+        "position":89,
+        "artist":"The Go-Betweens",
+        "track":"Bye Bye Pride"
+    },
+    {
+        "position":90,
+        "artist":"Daddy Cool",
+        "track":"Eagle Rock"
+    },
+    {
+        "position":91,
+        "artist":"Elvis Presley",
+        "track":"Suspicious Minds"
+    },
+    {
+        "position":92,
+        "artist":"Aretha Franklin",
+        "track":"I Say A Little Prayer"
+    },
+    {
+        "position":93,
+        "artist":"Lime Spiders",
+        "track":"Slave Girl"
+    },
+    {
+        "position":94,
+        "artist":"Blondie",
+        "track":"Heart Of Glass"
+    },
+    {
+        "position":95,
+        "artist":"Cold Chisel",
+        "track":"Khe Sahn"
+    },
+    {
+        "position":96,
+        "artist":"Laurie Anderson",
+        "track":"O Superman"
+    },
+    {
+        "position":97,
+        "artist":"Hunters & Collectors",
+        "track":"Say Goodbye"
+    },
+    {
+        "position":98,
+        "artist":"Do Re Mi",
+        "track":"Man Overboard"
+    },
+    {
+        "position":99,
+        "artist":"Outline",
+        "track":"The Cicada That Ate Five Dock"
+    },
+    {
+        "position":100,
+        "artist":"Nick Cave & The Bad Seeds",
+        "track":"The Mercy Seat"
+    }
+]
