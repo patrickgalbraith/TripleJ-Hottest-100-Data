@@ -6,7 +6,8 @@ Hottest 100 in easily digestable JSON format extracted from the TripleJ website.
 Example
 ----
 
-```[
+```
+[
     {
         "position":1,
         "artist":"Joy Division",
